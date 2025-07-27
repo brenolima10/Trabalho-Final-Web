@@ -145,4 +145,4 @@ Mantém os últimos 7 backups no `BACKUP_PATH`.
 
 ---
 
-**Desenvolvido por Emanuel Abreu**
+
